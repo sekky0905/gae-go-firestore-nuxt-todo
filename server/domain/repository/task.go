@@ -2,7 +2,8 @@ package repository
 
 import (
 	"context"
-	"gae-go-firestore-nuxt-todo/domain/model"
+
+	"github.com/sekky0905/gae-go-firestore-nuxt-todo/domain/model"
 )
 
 // TaskRepository is repository of task.
